@@ -40,7 +40,7 @@ const reset = () => {
 </script>
 
 <style scoped>
-*{
+* {
     outline: red 1px solid;
 }
 .main {
